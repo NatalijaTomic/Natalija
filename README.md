@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Natalija
+- 👀 I’m interested in Python, Data Science, Educating
+- 🌱 I’m currently learning Python, CSS, JavaScript
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
