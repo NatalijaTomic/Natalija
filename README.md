@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Natalija
-- 👀 I’m interested in Python, Data Science, Educating
-- 🌱 I’m currently learning Python, CSS, JavaScript, PHP 
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JavaScript, PHP, Python
